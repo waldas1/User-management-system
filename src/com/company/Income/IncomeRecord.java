@@ -1,4 +1,4 @@
-package Income;
+package com.company.Income;
 
 import java.time.LocalDate;
 

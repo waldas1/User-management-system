@@ -1,7 +1,7 @@
 package com.company;
 
-import Income.IncomeDataBase;
-import Income.IncomeRecord;
+import com.company.Income.IncomeDataBase;
+import com.company.Income.IncomeRecord;
 import com.company.CashBack.CashBack;
 import com.company.CashBack.CashBackDataBase;
 import com.company.Expense.ExpenseRecord;
